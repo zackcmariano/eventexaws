@@ -1,4 +1,4 @@
-# Eventex
+# EventexAWS
 
 Sistema de Eventos encomendado
 
